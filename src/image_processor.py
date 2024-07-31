@@ -17,6 +17,6 @@ def process_images(input_dir, output_dir):
             convert_to_bw(input_path, output_bw_path)
 
 if __name__ == "__main__":
-    input_directory = "D:\\Compressed\\aerials\\aerials"
+    input_directory = "../data/aerial"
     output_directory = "output"
     process_images(input_directory, output_directory)
