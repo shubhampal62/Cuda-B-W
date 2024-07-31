@@ -1,0 +1,8 @@
+
+# Installation Instructions
+
+1. Install Python 3.6 or higher.
+2. Install required libraries:
+
+
+pip install opencv-python opencv-contrib-python
